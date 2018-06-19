@@ -1,3 +1,3 @@
 #meteor reset
-#export ROOT_URL=<ROOT_URL_OF_THE_WEBSITE>
+#export ROOT_URL=http://yoowear.org
 meteor $@ --settings settings.json -p 8080
