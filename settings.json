@@ -1,0 +1,15 @@
+{
+  "public": {
+    "environment": "development"
+  },
+  "private": {
+    "oAuth": {
+      "facebook": {
+        "appId": "<appid>",
+        "secret": "<secret>"
+      }
+    }
+  }
+}
+
+
