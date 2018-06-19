@@ -1,12 +1,13 @@
 {
   "public": {
-    "environment": "development"
+    "environment": "development",
+    "version": "0.0.1"
   },
   "private": {
     "oAuth": {
       "facebook": {
-        "appId": "311232032671725",
-        "secret": "a77b6797c348f8183fb77dd1e95cec15"
+        "appId": "<appid>",
+        "secret": "<secret>"
       }
     }
   }
